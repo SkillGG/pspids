@@ -1,0 +1,7575 @@
+[
+    {
+      "id": "ULUS-10080",
+      "name": "007 - From Russia With Love",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00262",
+      "name": "1000 Tiny Claws",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10088",
+      "name": "101-in-1 Megamix",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00189",
+      "name": "3, 2, 1... SuperCrash!",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10241",
+      "name": "300 - March to Glory",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00176",
+      "name": "3D Twist & Match",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00104",
+      "name": "4x4 Jam",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00086",
+      "name": "5 in 1 Solitaire",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00078",
+      "name": "5 in 1 Arcade Hits",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10128",
+      "name": "50cent – Bulletproof - G-Unit Edition",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10227",
+      "name": "7 Wonders of the Ancient World",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00190",
+      "name": "A Space Shooter for 2 Bucks!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00109",
+      "name": "Ace Armstrong Vs. The Alien Scumbags!",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10511",
+      "name": "Ace Combat - Joint Assaul",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10176",
+      "name": "Ace Combat X - Skies of Deception",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10186",
+      "name": "Activision Hits Remixed",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00110",
+      "name": "Actual Crimes - Jack the Ripper",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10417",
+      "name": "Adventures to Go!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10242",
+      "name": "Aedis Eclipse - Generation of Chaos",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00023",
+      "name": "Aero Racer",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10244",
+      "name": "After Burner - Black Falcon",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00178",
+      "name": "Age of Hammer Wars",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00024",
+      "name": "Age of Zombies",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10404",
+      "name": "Air Conflicts - Aces of World War II",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUF-30008",
+      "name": "Alien Crush",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00008",
+      "name": "Alien Havoc",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10245",
+      "name": "Alien Syndrome",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00069",
+      "name": "Alien Zombie Death",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10327",
+      "name": "Aliens vs. Predator - Requiem",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00133",
+      "name": "Alpha Mission",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10060",
+      "name": "Alpha Mission II",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00202",
+      "name": "Ancient Game Treasures - Mill",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00119",
+      "name": "Angry Birds",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00098",
+      "name": "Apache Overkill",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98619",
+      "name": "Ape Escape Academy",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98609",
+      "name": "Ape Escape - On the Loose",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00182",
+      "name": "Aquattack!",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00103",
+      "name": "Arcade Air Hockey & Bowling",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00097",
+      "name": "Arcade Darts",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00116",
+      "name": "Arcade Essentials",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00258",
+      "name": "Arcade Essentials Evolution",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00281",
+      "name": "Arcade Pool",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10017",
+      "name": "Archer Maclean's Mercury",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00115",
+      "name": "Archibald's Adventures",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "R"
+      ]
+    },
+    {
+      "id": "NPUZ-00114",
+      "name": "Arctic Adventures - Polar's Puzzles",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10023",
+      "name": "Armored Core 3 Portable",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10034",
+      "name": "Armored Core - Formula Front Extreme Battle",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10024",
+      "name": "Armored Core - Last Raven Portable",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10025",
+      "name": "Armored Core - Silent Line Portable",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10472",
+      "name": "Army of Two - The 40th Day",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10061",
+      "name": "Art of Fighting",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10455",
+      "name": "Assassin's Creed - Bloodlines",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10083",
+      "name": "Astonishia Story",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10454",
+      "name": "Astro Boy - The Video Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10325",
+      "name": "Atari Classics Evolved",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00151",
+      "name": "Athena",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98603",
+      "name": "ATV Offroad Fury - Blazin' Trails",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98648",
+      "name": "ATV Offroad Fury Pro",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10069",
+      "name": "Auditorium",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10165",
+      "name": "Avatar - The Last Airbender",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10363",
+      "name": "B-Boy",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00220",
+      "name": "BABEL The King of the Blocks",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10536",
+      "name": "Bakugan Battle Brawlers - Defenders of the Core",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "NPUH-10078",
+      "name": "Baseball Stars 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10064",
+      "name": "Baseball Stars Professional",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00123",
+      "name": "Bashi Blocks",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00020",
+      "name": "Battle Poker",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10156",
+      "name": "Battle Zone",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00087",
+      "name": "Beam'em Up",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10405",
+      "name": "Beaterator",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80060",
+      "name": "Beats",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-30038",
+      "name": "Bejeweled 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10387",
+      "name": "Ben 10 - Alien Force",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10488",
+      "name": "Ben 10 - Alien Force - Vilgax Attacks",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10307",
+      "name": "Ben 10 - Protector of Earth",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10542",
+      "name": "Ben 10 - Ultimate Alien - Cosmic Destruction",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10075",
+      "name": "Ben 10 - Ultimate Alien - Cosmic Destruction",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10329",
+      "name": "Beowulf - The Game",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00152",
+      "name": "Bermuda Triangle",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00082",
+      "name": "Best of Solitaire",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10029",
+      "name": "Beta Bloc",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10126",
+      "name": "Black Rock Shooter - The Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10124",
+      "name": "Blade Dancer - Lineage of Light",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00021",
+      "name": "Blast Off",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10519",
+      "name": "BlazBlue - Calamity Trigger",
+      "langs": [
+        "E",
+        "Ch",
+        "J",
+        "K"
+      ]
+    },
+    {
+      "id": "ULUS-10579",
+      "name": "BlazBlue - Continuum Shift II",
+      "langs": [
+        "E",
+        "Ch",
+        "J",
+        "K"
+      ]
+    },
+    {
+      "id": "ULUS-10527",
+      "name": "Blazing Souls - Accelate",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00120",
+      "name": "Blimp - The Flying Adventures",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10200",
+      "name": "Blitz - Overtime",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00218",
+      "name": "Block Cascade Fusion",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10332",
+      "name": "Blokus Portable - Steambot Championship",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10516",
+      "name": "Blood Bowl",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00010",
+      "name": "Bloons",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00186",
+      "name": "Bloons TD",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10121",
+      "name": "Bomberman",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10319",
+      "name": "Bomberman Land",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUF-30012",
+      "name": "Bonk's Adventure",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00194",
+      "name": "Boom Beats",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10161",
+      "name": "Bounty Hounds",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00002",
+      "name": "Bowling 3D",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10006",
+      "name": "Brain Challenge",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00009",
+      "name": "Brainpipe",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10279",
+      "name": "Brave Story - New Traveler",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00031",
+      "name": "BreakQuest",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00235",
+      "name": "BreakQuest - Extra Evolution",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00225",
+      "name": "Brick Breaker",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10257",
+      "name": "Brooktown High",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10193",
+      "name": "Brothers in Arms - D-Day",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10283",
+      "name": "Brunswick Pro Bowling",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10143",
+      "name": "Bubble Bobble - Evolution",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00007",
+      "name": "Bubble Trubbler",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00229",
+      "name": "Bunny Dodge",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00083",
+      "name": "Burnin' Rubber",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10236",
+      "name": "Burnout Dominator",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10025",
+      "name": "Burnout Legends",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10057",
+      "name": "Bust-A-Move Deluxe",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80449",
+      "name": "Busy Sweets Factory",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98729",
+      "name": "Buzz! - Master Quiz",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80293",
+      "name": "Buzz! - Quiz World",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10175",
+      "name": "Cabela's African Safari",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10106",
+      "name": "Cabela's Dangerous Hunts - Ultimate Challenge",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10385",
+      "name": "Cabela's Legendary Adventures",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10533",
+      "name": "Cabela's North American Adventures",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10362",
+      "name": "Cake Mania - Baker's Challenge",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10218",
+      "name": "Call of Duty - Roads to Victory",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "J"
+      ]
+    },
+    {
+      "id": "NPUZ-00276",
+      "name": "Canabalt",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10134",
+      "name": "Capcom Classics Collection Reloaded",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10097",
+      "name": "Capcom Classics Collection Remixed",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10217",
+      "name": "Capcom Puzzle World",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00043",
+      "name": "Car Jack Streets",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00211",
+      "name": "Card Shark",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10188",
+      "name": "Carnage Heart EXA",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00118",
+      "name": "Carnivores - Dinosaur Hunter",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00236",
+      "name": "Carnivores - Ice Age",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10126",
+      "name": "Carol Vorderman's Sudoku",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10277",
+      "name": "Castlevania - The Dracula X Chronicles",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00112",
+      "name": "Caterpillar",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10267",
+      "name": "Chameleon",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80433",
+      "name": "Charge! Tank Squad!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10335",
+      "name": "Chessmaster - The Art of Learning",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10216",
+      "name": "Chili Con Carnage",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10031",
+      "name": "Cho Aniki Zero",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00153",
+      "name": "Chopper I",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10356",
+      "name": "CID The Dummy",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00028",
+      "name": "Circles",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10072",
+      "name": "ClaDun - This is an RPG!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10114",
+      "name": "ClaDun x2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10396",
+      "name": "Class of Heroes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10653",
+      "name": "Class of Heroes 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10127",
+      "name": "Class of Heroes 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10444",
+      "name": "Cloudy With a Chance of Meatballs",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00131",
+      "name": "Coconut Dodge",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10351",
+      "name": "Code Lyoko - Quest for Infinity",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10019",
+      "name": "Coded Arms",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10184",
+      "name": "Coded Arms - Contagion",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00250",
+      "name": "Cohort Chess",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10471",
+      "name": "Colin McRae - DiRT 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00209",
+      "name": "Core Blaster",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10117",
+      "name": "Corpse Party",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10187",
+      "name": "Corpse Party - Book of Shadows",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10304",
+      "name": "Crash of the Titans",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10044",
+      "name": "Crash Tag Team Racing",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10377",
+      "name": "Crash - Mind Over Mutant",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "ULUS-10273",
+      "name": "Crazy Taxi - Fare Wars",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUH-10034",
+      "name": "Creature Defense",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10400",
+      "name": "Crimson Gem Saga",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10037",
+      "name": "Crimson Room Reverse",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10336",
+      "name": "Crisis Core - Final Fantasy VII",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10238",
+      "name": "Crush",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUH-10026",
+      "name": "Crystal Defenders",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10223",
+      "name": "Cube",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00080",
+      "name": "Cubixx",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00027",
+      "name": "D-Cube Planet",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10469",
+      "name": "Dante's Inferno",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10005",
+      "name": "Darkstalkers Chronicle - The Chaos Tower",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10204",
+      "name": "Dave Mirra BMX Challenge",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98618",
+      "name": "Daxter",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80329",
+      "name": "Daxter",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00185",
+      "name": "Days of Thunder",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10288",
+      "name": "Dead Head Fred",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10521",
+      "name": "Dead or Alive Paradise",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10023",
+      "name": "Dead to Rights - Reckoning",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10027",
+      "name": "Death Jr.",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10157",
+      "name": "Death Jr. II - Root of Evil",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10100",
+      "name": "Def Jam - Fight for NY - The Takeover",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00271",
+      "name": "Defenders of the Mystic Garden",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00040",
+      "name": "Deflector",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00213",
+      "name": "Denki Blocks!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10534",
+      "name": "Despicable Me",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUX-80407",
+      "name": "Digi-Tiles",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10264",
+      "name": "Diner Dash - Sizzle & Serve",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10308",
+      "name": "Disgaea - Afternoon of Darkness",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10461",
+      "name": "Disgaea 2 - Dark Hero Days",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10522",
+      "name": "Disgaea Infinite",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10437",
+      "name": "Dissidia - Final Fantasy",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10566",
+      "name": "Dissidia 012 - Duodecim Final Fantasy",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUH-10110",
+      "name": "Dissidia 012 Prologus - Duodecim Final Fantasy",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10439",
+      "name": "Disney's G-Force",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10431",
+      "name": "Disney's Hannah Montana - Rock Out the Show",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "ULUS-10252",
+      "name": "Disney's Pirates of the Caribbean - At World's End",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10111",
+      "name": "Disney's Pirates of the Caribbean - Dead Man's Chest",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10548",
+      "name": "Disney's TRON - Evolution",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10073",
+      "name": "Disney's Pixar - Cars",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98766",
+      "name": "Disney's Pixar - Cars 2",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10428",
+      "name": "Disney's Pixar - Cars Race-O-Rama",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10247",
+      "name": "Disney's Pixar - Ratatouille",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10507",
+      "name": "Disney's Pixar - Toy Story 3",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10430",
+      "name": "Disney's Pixar - Up",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10350",
+      "name": "Disney's Pixar - Wall-E",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "ULUS-10403",
+      "name": "DJ Max Fever",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10538",
+      "name": "DJ Max Portable 3",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00263",
+      "name": "Doodle Fit",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00203",
+      "name": "Doodle Pool",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10322",
+      "name": "Downstream Panic!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00126",
+      "name": "Dr. Maybee and the Adventures of Scarygirl",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00201",
+      "name": "Dr. MiniGames",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00046",
+      "name": "Dracula - Undead Awakening",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10415",
+      "name": "Dragon Ball Evolution",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10081",
+      "name": "Dragon Ball Z - Shin Budokai",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10234",
+      "name": "Dragon Ball Z - Shin Budokai Another Road",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10537",
+      "name": "Dragon Ball Z - Tenkaichi Tag Team",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10105",
+      "name": "Dragon's Lair",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10291",
+      "name": "Dragoneer's Aria",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10520",
+      "name": "DreamWorks' Megamind - The Blue Defender",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10187",
+      "name": "DreamWorks' Over the Hedge - Hammy Goes Nuts!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10248",
+      "name": "DreamWorks' Shrek the Third",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10194",
+      "name": "DreamWorks' Shrek - Smash n' Crash Racing",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10235",
+      "name": "Driver 76",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00214",
+      "name": "Drums Challenge",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10406",
+      "name": "DT Carnage",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00212",
+      "name": "Duael Invaders",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00285",
+      "name": "Ducati Challenge",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUF-30011",
+      "name": "Dungeon Explorer",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10289",
+      "name": "Dungeon Explorer - Warriors of Ancient Arts",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10282",
+      "name": "Dungeon Maker - Hunting Ground",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10393",
+      "name": "Dungeon Maker II - The Hidden War",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10177",
+      "name": "Dungeon Siege - Throne of Agony",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10232",
+      "name": "Dungeons & Dragons Tactics",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10004",
+      "name": "Dynasty Warriors",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10170",
+      "name": "Dynasty Warriors Vol. 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10022",
+      "name": "Dynasty Warriors Vol. 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10416",
+      "name": "Dynasty Warriors - Strikeforce",
+      "langs": [
+        "E",
+        "F",
+        "G"
+      ]
+    },
+    {
+      "id": "NPUZ-00036",
+      "name": "Dynogems",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10140",
+      "name": "EA Replay",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80405",
+      "name": "Earthshield",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80135",
+      "name": "Echochrome",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00022",
+      "name": "Echoes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80303",
+      "name": "Echoshift",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00251",
+      "name": "EDGE",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUH-10128",
+      "name": "Elminage Original",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00272",
+      "name": "Enchanted Cavern",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "S",
+        "R"
+      ]
+    },
+    {
+      "id": "NPUH-10193",
+      "name": "End of Serenity",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00197",
+      "name": "Enigmo",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10146",
+      "name": "Eragon",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10147",
+      "name": "Every Extend Extra",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80224",
+      "name": "Everyday Shooter",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10074",
+      "name": "Exit",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00084",
+      "name": "Express Raider",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98759",
+      "name": "EyePet",
+      "langs": [
+        "E",
+        "F",
+        "S",
+        "P"
+      ]
+    },
+    {
+      "id": "ULUS-10449",
+      "name": "F-1 2009",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10344",
+      "name": "Fading Shadows",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "Du",
+        "R"
+      ]
+    },
+    {
+      "id": "NPUH-10118",
+      "name": "Fading Shadows<",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00180",
+      "name": "Family Games - Pen & Paper Edition",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10185",
+      "name": "Family Guy",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00222",
+      "name": "Farm Frenzy",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00273",
+      "name": "Farm Frenzy 2",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "R"
+      ]
+    },
+    {
+      "id": "NPUZ-00293",
+      "name": "Farm Frenzy 3",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "J",
+        "K",
+        "R"
+      ]
+    },
+    {
+      "id": "NPUZ-00274",
+      "name": "Farm Frenzy - Pizza Party",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "J",
+        "K",
+        "R"
+      ]
+    },
+    {
+      "id": "UCUS-98740",
+      "name": "Fat Princess - Fistful of Cake",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10059",
+      "name": "Fatal Fury",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10576",
+      "name": "Fate/Extra",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10009",
+      "name": "Fate/Unlimited Codes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00306",
+      "name": "Feisty Feet",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10088",
+      "name": "Field Commander",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00014",
+      "name": "Fieldrunners",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10029",
+      "name": "FIFA '06 - Soccer",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10112",
+      "name": "FIFA '07 - Soccer",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10293",
+      "name": "FIFA '08 - Soccer",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10655",
+      "name": "FIFA 14",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10011",
+      "name": "FIFA Soccer",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10369",
+      "name": "FIFA Soccer '09",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10464",
+      "name": "FIFA Soccer '10",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10550",
+      "name": "FIFA Soccer '11",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10583",
+      "name": "FIFA Soccer '12",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10595",
+      "name": "FIFA Soccer '13",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10655",
+      "name": "FIFA Soccer '14",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10067",
+      "name": "FIFA Street 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10082",
+      "name": "FIFA World Cup - Germany 2006",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10504",
+      "name": "FIFA World Cup - South Africa 2010",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10066",
+      "name": "Fight Night Round 3",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00187",
+      "name": "Fighting Fantasy - Talisman of Death",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00268",
+      "name": "Fighting Fantasy - The Warlock of Firetop Mountain",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10251",
+      "name": "Final Fantasy",
+      "langs": [
+        "E",
+        "J"
+      ]
+    },
+    {
+      "id": "ULUS-10263",
+      "name": "Final Fantasy II",
+      "langs": [
+        "E",
+        "J"
+      ]
+    },
+    {
+      "id": "NPUH-10125",
+      "name": "Final Fantasy III",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10560",
+      "name": "Final Fantasy IV - Complete Collection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10297",
+      "name": "Final Fantasy Tactics - The War of the Lions",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80423",
+      "name": "Finger Connection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00204",
+      "name": "Fish Tank",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10328",
+      "name": "FlatOut - Head On",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00044",
+      "name": "Flick Fishing",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00299",
+      "name": "Floating Cloud God Saves The Pilgrims",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80086",
+      "name": "FlOw",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "Du",
+        "J",
+        "P"
+      ]
+    },
+    {
+      "id": "NPUZ-00108",
+      "name": "Fly Fu",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10036",
+      "name": "Football Manager Handheld 2010",
+      "langs": [
+        "E",
+        "F",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUH-10077",
+      "name": "Football Manager Handheld 2011",
+      "langs": [
+        "E",
+        "F",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10159",
+      "name": "Ford Bold Moves Street Racing",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10326",
+      "name": "Ford Racing - Off Road",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00121",
+      "name": "Forest Puzzle",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00127",
+      "name": "Fort Commander - King's Gambit",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00128",
+      "name": "Fort Commander II - CounterAttack",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00016",
+      "name": "Fortix",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10039",
+      "name": "Frantix - A Puzzle Adventure",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00013",
+      "name": "Freekscape - Escape From Hell",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10026",
+      "name": "Frogger - Helmet Chaos",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10220",
+      "name": "Full Auto 2 - Battlelines",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00011",
+      "name": "Funky Punch",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10435",
+      "name": "G.I. Joe - The Rise of Cobra",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00237",
+      "name": "Galcon Labs",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00259",
+      "name": "Gamocracy One - Legend of Robot",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00155",
+      "name": "Gang Wars",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98617",
+      "name": "Gangs of London",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10075",
+      "name": "Generation of Chaos",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10184",
+      "name": "Generation of Chaos - Pandora's Reflection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCES-01535",
+      "name": "Geronimo Stilton in the Kingdom of Fantasy",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "Du",
+        "P"
+      ]
+    },
+    {
+      "id": "NPUG-80850",
+      "name": "Geronimo Stilton Return to the Kingdom of Fantasy",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10020",
+      "name": "Ghost in the Shell - Stand Alone Complex",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10210",
+      "name": "Ghost Rider",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10486",
+      "name": "Ghostbusters - The Video Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10207",
+      "name": "Gitaroo Man Lives!",
+      "langs": [
+        "E",
+        "F",
+        "G"
+      ]
+    },
+    {
+      "id": "ULUS-10528",
+      "name": "Gladiator Begins",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80090",
+      "name": "Go! Puzzle",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10095",
+      "name": "Go! Sudoku",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98653",
+      "name": "God of War - Chains of Olympus",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80325",
+      "name": "God of War - Chains of Olympus",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98737",
+      "name": "God of War - Ghost of Sparta",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUG-80508",
+      "name": "God of War - Ghost of Sparta",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10563",
+      "name": "Gods Eater Burst",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00093",
+      "name": "Gold Fever",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00156",
+      "name": "Gold Medalist",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00282",
+      "name": "Golf Mania",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10103",
+      "name": "Gradius Collection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98632",
+      "name": "Gran Turismo",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10490",
+      "name": "Grand Theft Auto - Chinatown Wars",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10041",
+      "name": "Grand Theft Auto - Liberty City Stories",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10160",
+      "name": "Grand Theft Auto - Vice City Stories",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80321",
+      "name": "Gravity Crash Portable",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "UCUS-98604",
+      "name": "Gretzky NHL",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98627",
+      "name": "Gretzky NHL 06",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10040",
+      "name": "Gripshift",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-30015",
+      "name": "Groovin' Blocks",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10593",
+      "name": "Growlanser- Wayfarer of Time",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10044",
+      "name": "GTI Club - Supermini Festa!",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "NPUZ-00157",
+      "name": "Guerrilla War",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10104",
+      "name": "Guilty Gear Judgment",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10409",
+      "name": "Guilty Gear XX Accent Core Plus",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10158",
+      "name": "Gun Showdown",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10592",
+      "name": "Gungnir",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10182",
+      "name": "Gunpey",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10228",
+      "name": "Gurumin - A Monstrous Adventure",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10577",
+      "name": "Hakuoki - Demon of the Fleeting Blossom",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10651",
+      "name": "Hakuoki - Warriors of the Shinsengumi",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00136",
+      "name": "HAL 21",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10491",
+      "name": "Half-Minute Hero",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10392",
+      "name": "Hammerin' Hero",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10300",
+      "name": "Hannspree Ten Kate Honda - SBK Superbike World Championship",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10181",
+      "name": "Hard Rock Casino",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10032",
+      "name": "Harry Potter and the Goblet of Fire",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10381",
+      "name": "Harry Potter and the Half-Blood Prince",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10261",
+      "name": "Harry Potter and the Order of the Phoenix",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10142",
+      "name": "Harvest Moon - Boy & Girl",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10458",
+      "name": "Harvest Moon - Hero of Leaf Valley",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10324",
+      "name": "Harvey Birdman - Attorney at Law",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10259",
+      "name": "Heatseeker",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10301",
+      "name": "Hellboy - The Science of Evil",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00067",
+      "name": "Hello Flowerz",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00037",
+      "name": "Heracles Chariot Racing",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00005",
+      "name": "Hero of Sparta",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10506",
+      "name": "Hexyz Force",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-94341",
+      "name": "Hilton Garden Inn - Ultimate Team Play",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00090",
+      "name": "History Channel - Egypt Engineering an Empire",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00091",
+      "name": "History Channel - Ice Road Truckers",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUH-10074",
+      "name": "Hoard",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80420",
+      "name": "Homerun Hitters",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10268",
+      "name": "Hot Brain",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10298",
+      "name": "Hot Pixel",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98614",
+      "name": "Hot Shots Golf - Open Tee",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98693",
+      "name": "Hot Shots Golf - Open Tee 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80527",
+      "name": "Hot Shots Shorties (Blue Pack)",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80524",
+      "name": "Hot Shots Shorties (Green Pack)",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80528",
+      "name": "Hot Shots Shorties (Red Pack)",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80529",
+      "name": "Hot Shots Shorties (Yellow Pack)",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98701",
+      "name": "Hot Shots Tennis - Get a Grip",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10239",
+      "name": "Hot Wheels Ultimate Racing",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00278",
+      "name": "Hotel Mogul",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "R",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00286",
+      "name": "Hungry Giraffe",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00072",
+      "name": "Hysteria Project",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00255",
+      "name": "Hysteria Project 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10122",
+      "name": "I Am An Air Traffic Controller - Airport Hero Tokyo",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00305",
+      "name": "I Kill Zombies",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00198",
+      "name": "I Must Run!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00279",
+      "name": "Idiot Squad",
+      "langs": [
+        "E",
+        "F",
+        "S",
+        "P"
+      ]
+    },
+    {
+      "id": "NPUZ-00158",
+      "name": "Ikari III - The Rescue",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00159",
+      "name": "Ikari Warriors",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00174",
+      "name": "Ikari Warriors II - Victory Road",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10476",
+      "name": "IL-2 Sturmovik - Birds of Prey",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "ULUS-10316",
+      "name": "Indiana Jones and the Staff of Kings",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10054",
+      "name": "Infected",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80453",
+      "name": "INFLUENCE",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10219",
+      "name": "Innocent Life - A Futuristic Harvest Moon",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98746",
+      "name": "InviZimals",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "UCUS-98760",
+      "name": "InviZimals - Shadow Zone",
+      "langs": [
+        "E",
+        "F",
+        "S",
+        "P"
+      ]
+    },
+    {
+      "id": "NPUG-80893",
+      "name": "InviZimals - The Lost Tribes",
+      "langs": [
+        "E",
+        "F",
+        "S",
+        "P"
+      ]
+    },
+    {
+      "id": "ULUS-10347",
+      "name": "Iron Man",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10497",
+      "name": "Iron Man 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10303",
+      "name": "Jackass - The Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98634",
+      "name": "Jak and Daxter - The Lost Frontier",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUG-80330",
+      "name": "Jak and Daxter - The Lost Frontier",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10451",
+      "name": "James Cameron's Avatar - The Game",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00196",
+      "name": "Jane's Hotel",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98700",
+      "name": "Jeanne d'Arc",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00223",
+      "name": "Jelly Pops",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00076",
+      "name": "Jelly Car 2",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00292",
+      "name": "Jetpack Joyride + 150K Coins",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00081",
+      "name": "Jewel Keepers - Easter Island",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10562",
+      "name": "Jikandia - The Timeless Land",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10312",
+      "name": "Juiced 2 - Hot Import Nights",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10090",
+      "name": "Juiced Eliminator",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10214",
+      "name": "Justice League Heroes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00030",
+      "name": "Kahoots",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00260",
+      "name": "Kaleidoscope (Interactive Synaesthesia Project)",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10085",
+      "name": "Kao Challengers",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00193",
+      "name": "Karimogi",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPEZ-00331",
+      "name": "Karoshi",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10442",
+      "name": "Kenka Bancho - Badass Rumble",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98646",
+      "name": "Killzone - Liberation",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "Du",
+        "Pl",
+        "R"
+      ]
+    },
+    {
+      "id": "NPUH-10053",
+      "name": "King of Pool",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10505",
+      "name": "Kingdom Hearts - Birth by Sleep",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "UCUS-98623",
+      "name": "Kingdom of Paradise",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00300",
+      "name": "Knight Fortix 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10539",
+      "name": "Knights in the Nightmare",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10042",
+      "name": "Kurulin Fusion",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00226",
+      "name": "Labyrinth",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10253",
+      "name": "Lara Croft - Tomb Raider - Anniversary",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10110",
+      "name": "Lara Croft - Tomb Raider - Legend",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUH-10067",
+      "name": "League Bowling",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80406",
+      "name": "Legend of Kunoichi",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10250",
+      "name": "Legend of the Dragon",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10106",
+      "name": "Legends of War - Patton's Campaign",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10380",
+      "name": "LEGO Batman - The Video Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10500",
+      "name": "LEGO Harry Potter - Years 1-4",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10580",
+      "name": "LEGO Harry Potter - Years 5-7",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10365",
+      "name": "LEGO Indiana Jones - Original Adventures",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10487",
+      "name": "LEGO Indiana Jones 2 - The Adventure Continues",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10575",
+      "name": "LEGO Pirates of the Caribbean - The Video Game",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10155",
+      "name": "LEGO Star Wars II - The Original Trilogy",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10531",
+      "name": "LEGO Star Wars III - The Clone Wars",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "UCUS-98647",
+      "name": "Lemmings",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00004",
+      "name": "Let's Golf",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98744",
+      "name": "Little BIG Planet",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "D",
+        "Du",
+        "Fi",
+        "Nw",
+        "P",
+        "Pl",
+        "R",
+        "Sw"
+      ]
+    },
+    {
+      "id": "NPUZ-00085",
+      "name": "Lock N' Chase",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98662",
+      "name": "LocoRoco",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98731",
+      "name": "LocoRoco 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80318",
+      "name": "LocoRoco - Midnight Carnival",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "D",
+        "Du",
+        "Fi",
+        "Nw",
+        "P",
+        "Pl",
+        "R",
+        "Sw"
+      ]
+    },
+    {
+      "id": "ULUS-10479",
+      "name": "Lord of Arcana",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "NPUX-80432",
+      "name": "Love Cupid",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10002",
+      "name": "Lumines",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10183",
+      "name": "Lumines II",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10482",
+      "name": "Lunar - Silver Star Harmony",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10333",
+      "name": "Luxor - Pharaoh's Challenge",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10201",
+      "name": "Luxor - The Wrath of Set",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10180",
+      "name": "M.A.C.H. - Modified Air Combat Heroes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00199",
+      "name": "M.O.Z.O.X. Space Salvager",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00210",
+      "name": "Mad Blocker Alpha - Revenge of the Fluzzles",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10024",
+      "name": "Madden NFL 06",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10117",
+      "name": "Madden NFL 07",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10275",
+      "name": "Madden NFL 08",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10352",
+      "name": "Madden NFL 09",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10441",
+      "name": "Madden NFL 10",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10541",
+      "name": "Madden NFL 11",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10581",
+      "name": "Madden NFL 12",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10068",
+      "name": "Magician Lord",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00062",
+      "name": "Mahjongg Artifacts",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00006",
+      "name": "Mahjongg Artifacts - Chapter 2",
+      "langs": [
+        "E",
+        "R"
+      ]
+    },
+    {
+      "id": "ULUS-10099",
+      "name": "Major League Baseball 2K6",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10229",
+      "name": "Major League Baseball 2K7",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10342",
+      "name": "Major League Baseball 2K8",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10413",
+      "name": "Major League Baseball 2K9",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10503",
+      "name": "Major League Baseball 2K10",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10573",
+      "name": "Major League Baseball 2K11",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10591",
+      "name": "Major League Baseball 2K12",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10408",
+      "name": "Mana Khemia - Student Alliance",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10280",
+      "name": "Manhunt 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00096",
+      "name": "Manic Monkey Mayhem",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10033",
+      "name": "Marvel Nemesis - Rise of the Imperfects",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10485",
+      "name": "Marvel Super Hero Squad",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10196",
+      "name": "Marvel Trading Card Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10167",
+      "name": "Marvel Ultimate Alliance",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10421",
+      "name": "Marvel Ultimate Alliance 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00141",
+      "name": "Marvin's Maze",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10094",
+      "name": "Me & My Katamari",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00231",
+      "name": "Me Monstar - Hear Me Roar!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00232",
+      "name": "Mecho Wars",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10141",
+      "name": "Medal of Honor - Heroes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10310",
+      "name": "Medal of Honor - Heroes 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98620",
+      "name": "MediEvil Resurrection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10068",
+      "name": "MegaMan - Maverick Hunter X",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10091",
+      "name": "MegaMan - Powered Up",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10568",
+      "name": "Mercury 2-For-1 Fun Pack",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10133",
+      "name": "Mercury Meltdown",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10006",
+      "name": "Metal Gear Ac!d",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10077",
+      "name": "Metal Gear Ac!d 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10108",
+      "name": "Metal Gear Solid - Digital Graphic Novel",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10509",
+      "name": "Metal Gear Solid - Peace Walker",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10202",
+      "name": "Metal Gear Solid - Portable Ops",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10290",
+      "name": "Metal Gear Solid - Portable Ops Plus",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10062",
+      "name": "Metal Slug",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10120",
+      "name": "Metal Slug 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10154",
+      "name": "Metal Slug Anthology",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10495",
+      "name": "Metal Slug XX",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10109",
+      "name": "Miami Vice - The Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10564",
+      "name": "Michael Jackson - The Experience",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "Pl",
+        "R"
+      ]
+    },
+    {
+      "id": "ULUS-10129",
+      "name": "Micro Machines V4",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10383",
+      "name": "Midnight Club - L. A. Remix",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10021",
+      "name": "Midnight Club 3 - DUB Edition",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10059",
+      "name": "Midway Arcade Treasures - Extended Play",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00238",
+      "name": "Mighty Flip Champs! DX",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10103",
+      "name": "Military History Commander - Europe at War",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10492",
+      "name": "Mimana Iyar Chronicle",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10178",
+      "name": "Mind Quiz",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00122",
+      "name": "Mini Squadron",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98605",
+      "name": "MLB",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98624",
+      "name": "MLB 06 - The Show",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98667",
+      "name": "MLB 07 - The Show",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98696",
+      "name": "MLB 08 - The Show",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98730",
+      "name": "MLB 09 - The Show",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98742",
+      "name": "MLB 10 - The Show",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98758",
+      "name": "MLB 11 - The Show",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98741",
+      "name": "ModNation Racers",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00221",
+      "name": "Monochrome Racing",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00033",
+      "name": "Monopoly",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10084",
+      "name": "Monster Hunter Freedom",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10266",
+      "name": "Monster Hunter Freedom 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10391",
+      "name": "Monster Hunter Freedom Unite",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10530",
+      "name": "Monster Jam - Path of Destruction",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10379",
+      "name": "Monster Jam - Urban Assault",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "ULUS-10211",
+      "name": "Monster Kingdom - Jewel Summoner",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00057",
+      "name": "Monsters (Probably) Stole My Princess",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10102",
+      "name": "Mortal Kombat - Unchained",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10153",
+      "name": "Moto GP",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98743",
+      "name": "MotorStorm - Arctic Edge",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10138",
+      "name": "MTX Mototrax",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80438",
+      "name": "Music Quiz",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10012",
+      "name": "MVP Baseball",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10071",
+      "name": "MX vs. ATV On the Edge",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10429",
+      "name": "MX vs. ATV Reflex",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10330",
+      "name": "MX vs. ATV Untamed",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10378",
+      "name": "My Spanish Coach",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10010",
+      "name": "Myst",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10189",
+      "name": "Mystic Chronicles",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10398",
+      "name": "Mytran Wars",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10340",
+      "name": "N+",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00179",
+      "name": "N.O.V.A. - Near Orbit Vanguard Alliance",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10035",
+      "name": "Namco Museum Battle Collection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10305",
+      "name": "Napoleon Dynamite - The Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10571",
+      "name": "Naruto Shippuden - Kizuna Drive",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10447",
+      "name": "Naruto Shippuden - Legends - Akatsuki Rising",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10299",
+      "name": "Naruto Shippuden - Ultimate Ninja Heroes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10349",
+      "name": "Naruto Shippuden - Ultimate Ninja Heroes 2 - The Phantom Fortress",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10518",
+      "name": "Naruto Shippuden - Ultimate Ninja Heroes 3",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10582",
+      "name": "Naruto Shippuden - Ultimate Ninja Impact",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10122",
+      "name": "NASCAR",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98607",
+      "name": "NBA",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98626",
+      "name": "NBA 06",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98644",
+      "name": "NBA 07",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98699",
+      "name": "NBA 08",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98715",
+      "name": "NBA 09 The Inside",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98738",
+      "name": "NBA 10 The Inside",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10474",
+      "name": "NBA 2K10",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10552",
+      "name": "NBA 2K11",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10585",
+      "name": "NBA 2K12",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10598",
+      "name": "NBA 2K13",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10078",
+      "name": "NBA Ballers Rebound",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10030",
+      "name": "NBA Live 06",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10113",
+      "name": "NBA Live 07",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10294",
+      "name": "NBA Live 08",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10370",
+      "name": "NBA Live 09",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "ULUS-10465",
+      "name": "NBA Live 10",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10010",
+      "name": "NBA Street Showdown",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10116",
+      "name": "NCAA Football 07",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10355",
+      "name": "NCAA Football 09",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10440",
+      "name": "NCAA Football 10",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10114",
+      "name": "Need for Speed Carbon - Own the City",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10036",
+      "name": "Need for Speed - Most Wanted 5-1-0",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10331",
+      "name": "Need for Speed - ProStreet",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10462",
+      "name": "Need for Speed - Shift",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10376",
+      "name": "Need for Speed - Undercover",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10007",
+      "name": "Need for Speed - Underground Rivals",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10089",
+      "name": "NeoGeo Heroes - Ultimate Shooting",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98622",
+      "name": "Neopets Petpet Adventures - The Wand of Wishing",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUF-30009",
+      "name": "Neutopia",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10382",
+      "name": "Neverland Card Battles",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUF-30014",
+      "name": "New Adventure Island",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10008",
+      "name": "NFL Street 2 Unleashed",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10135",
+      "name": "NFL Street 3",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10131",
+      "name": "NHL 07",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10278",
+      "name": "NHRA Drag Racing - Countdown to the Championship",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00253",
+      "name": "Ninjamurai",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10007",
+      "name": "No Gravity - The Plague of Mind",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80460",
+      "name": "No Heroes Allowed!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00071",
+      "name": "Normal Tanks",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80320",
+      "name": "Numblast",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10484",
+      "name": "Obscure - The Aftermath",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00217",
+      "name": "OMG-Z!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00205",
+      "name": "One Epic Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80431",
+      "name": "One Two Boat Racing",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10179",
+      "name": "Online Chess Kingdoms",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10152",
+      "name": "Open Season",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00216",
+      "name": "Orbit",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10064",
+      "name": "OutRun 2006 - Coast 2 Coast",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00143",
+      "name": "Ozma Wars",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00160",
+      "name": "P.O.W. - Prisoners of War",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00125",
+      "name": "Pac-Man Championship Edition",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10055",
+      "name": "Pac-Man World 3",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10149",
+      "name": "Pac-Man World Rally",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00099",
+      "name": "Pallurikio",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00113",
+      "name": "Panda Craze",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10438",
+      "name": "Pangya - Fantasy Golf",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00206",
+      "name": "Paper Wars - Cannon Fodder",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98702",
+      "name": "Parappa the Rapper",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98711",
+      "name": "Patapon",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98732",
+      "name": "Patapon 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98751",
+      "name": "Patapon 3",
+      "langs": [
+        "E",
+        "F",
+        "S",
+        "P"
+      ]
+    },
+    {
+      "id": "NPUG-80403",
+      "name": "Patchwork Heroes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10118",
+      "name": "Payout Poker & Casino",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10386",
+      "name": "PDC World Championship Darts 2008",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "Du"
+      ]
+    },
+    {
+      "id": "NPUG-30040",
+      "name": "Peggle",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10072",
+      "name": "Peter Jackson's King Kong",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10463",
+      "name": "Petz - Dogz Family",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10446",
+      "name": "Petz - Hamsterz Bunch",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10402",
+      "name": "Petz - Saddle Club",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10410",
+      "name": "Phantasy Star Portable",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10529",
+      "name": "Phantasy Star Portable 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10572",
+      "name": "Phantom Brave - The Hermuda Triangle",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-98775",
+      "name": "Phineas and Ferb - Across the 2nd Dimension",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUX-80448",
+      "name": "Pile Up! Bakery",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10256",
+      "name": "Pimp My Ride",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00054",
+      "name": "Pinball Dreams",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80435",
+      "name": "Pinball Duel",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00017",
+      "name": "Pinball Fantasies",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10052",
+      "name": "Pinball Hall of Fame - The Gottlieb Collection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10265",
+      "name": "Pinball Hall of Fame - The Williams Collection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80251",
+      "name": "Pinball Heroes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00195",
+      "name": "Pipe Madness",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10359",
+      "name": "Pipe Mania",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "NPUZ-00177",
+      "name": "Pix'n Love Rush",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98739",
+      "name": "Pixel Junk Monsters Deluxe",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80248",
+      "name": "Pixel Junk Monsters Deluxe",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80413",
+      "name": "Piyotama",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10203",
+      "name": "Platypus",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10151",
+      "name": "Pocket Pool",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10163",
+      "name": "Pocket Racers",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10091",
+      "name": "Pool Hall Pro",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10018",
+      "name": "PoPoLoCrois",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10171",
+      "name": "Power Stone Collection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10046",
+      "name": "PQ - Practical Intelligence Quotient",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10258",
+      "name": "PQ2 - Practical Intelligence Quotient 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00162",
+      "name": "Prehistoric Isle",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10063",
+      "name": "Prince of Persia - Revelations",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10240",
+      "name": "Prince of Persia - Rival Swords",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10480",
+      "name": "Prince of Persia - The Forgotten Sands",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10407",
+      "name": "Prinny - Can I Really Be the Hero?",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10561",
+      "name": "Prinny 2 - Dawn of Operation Panties, Dood!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10005",
+      "name": "Pro Bull Riders - Out of the Chute",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10320",
+      "name": "Pro Evolution Soccer 2008",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10388",
+      "name": "Pro Evolution Soccer 2009",
+      "langs": [
+        "E",
+        "F",
+        "S",
+        "P"
+      ]
+    },
+    {
+      "id": "ULUS-10483",
+      "name": "Pro Evolution Soccer 2010",
+      "langs": [
+        "E",
+        "F",
+        "S",
+        "P"
+      ]
+    },
+    {
+      "id": "ULUS-10554",
+      "name": "Pro Evolution Soccer 2011",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10586",
+      "name": "Pro Evolution Soccer 2012",
+      "langs": [
+        "E",
+        "F",
+        "S",
+        "P"
+      ]
+    },
+    {
+      "id": "ULUS-10597",
+      "name": "Pro Evolution Soccer 2013",
+      "langs": [
+        "E",
+        "F",
+        "S",
+        "P"
+      ]
+    },
+    {
+      "id": "ULUS-10654",
+      "name": "Pro Evolution Soccer 2014",
+      "langs": [
+        "E",
+        "F",
+        "S",
+        "P"
+      ]
+    },
+    {
+      "id": "ULUS-10209",
+      "name": "ProStroke Golf . World Tour 2007",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00163",
+      "name": "Psycho Soldier",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98640",
+      "name": "Pursuit Force",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98703",
+      "name": "Pursuit Force - Extreme Justice",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10120",
+      "name": "Puzzle Challenge - Crosswords and More!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10468",
+      "name": "Puzzle Chronicles",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10334",
+      "name": "Puzzle Guzzle",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10225",
+      "name": "Puzzle Quest - Challenge of the Warlords",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10190",
+      "name": "Puzzle Scape",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80436",
+      "name": "Quiz Animania",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10343",
+      "name": "R-Type Command",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10096",
+      "name": "Race Driver 2006",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10594",
+      "name": "Ragnarok Tactics",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10205",
+      "name": "Rainbow Islands Evolution",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUX-80434",
+      "name": "Ramen Heaven",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10532",
+      "name": "Rapala Pro Bass Fishing",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10137",
+      "name": "Rapala Trophies",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98633",
+      "name": "Ratchet & Clank - Size Matters",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00048",
+      "name": "Red Bull X-Fighters",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00064",
+      "name": "Reef Aquarium",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10166",
+      "name": "Reel Fishing - The Great Outdoors",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10013",
+      "name": "Rengoku - The Tower of Purgatory",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10127",
+      "name": "Rengoku II - The Stairway to H.E.A.V.E.N.",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98668",
+      "name": "Resistance - Retribution",
+      "langs": [
+        "E",
+        "F",
+        "S",
+        "J"
+      ]
+    },
+    {
+      "id": "NPUZ-00060",
+      "name": "Retro Cave Flyer",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00264",
+      "name": "Revoltin' Youth",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10001",
+      "name": "Ridge Racer",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10286",
+      "name": "Riviera - The Promised Land",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00075",
+      "name": "Robin Hood - The Return of Richard",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10418",
+      "name": "Rock Band Unplugged",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10015",
+      "name": "Rock Band Unplugged",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00023",
+      "name": "Rocket Racing",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00094",
+      "name": "Rocks N' Rockets",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10233",
+      "name": "Rocky Balboa",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00265",
+      "name": "Ronnie O'Sullivan's Snooker",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00041",
+      "name": "Route 66",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00219",
+      "name": "Rumble Trucks",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00242",
+      "name": "Run Ghost Run",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10174",
+      "name": "Rush",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00170",
+      "name": "S.A.R. - Search And Rescue",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10063",
+      "name": "Samurai Shodown",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10401",
+      "name": "Samurai Shodown Anthology",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10089",
+      "name": "Samurai Warriors - State of War",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00146",
+      "name": "Sasuke vs. Commander",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80328",
+      "name": "Savage Moon - The Hera Campaign",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10395",
+      "name": "SBK - Superbike World Championship",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10148",
+      "name": "Scarface - Money. Power. Respect.",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10168",
+      "name": "Scooby-Doo! Who's Watching Who?",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10412",
+      "name": "Scrabble - Crossword Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98697",
+      "name": "Secret Agent Clank",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10192",
+      "name": "Sega Genesis Collection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10311",
+      "name": "Sega Rally Revo",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10459",
+      "name": "Shadow of Destiny",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00111",
+      "name": "Shapo",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10399",
+      "name": "Shaun White Snowboarding",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80421",
+      "name": "Sheep Defense",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10499",
+      "name": "Shepherd's Crossing",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00200",
+      "name": "SHIFT extended",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10432",
+      "name": "Shin Megami Tensei - Persona",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10584",
+      "name": "Shin Megami Tensei - Persona 2 - Innocent Sin",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10512",
+      "name": "Shin Megami Tensei - Persona 3 - Portable",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10083",
+      "name": "Shock Troopers",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80439",
+      "name": "Shogi",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10224",
+      "name": "Sid Meier's Pirates!",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10285",
+      "name": "Silent Hill Origins",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10450",
+      "name": "Silent Hill - Shattered Memories",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00239",
+      "name": "Sky Force",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10016",
+      "name": "Smart Bomb",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10269",
+      "name": "Smash Court Tennis 3",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80404",
+      "name": "Smashbreak",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00207",
+      "name": "Snake Warriors - Training",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00065",
+      "name": "Sneezies",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10338",
+      "name": "SNK Arcade Classics Vol.1",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10189",
+      "name": "Snoopy vs the Red Baron",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00257",
+      "name": "Snowy - The Bear's Adventures",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "J",
+        "K",
+        "R"
+      ]
+    },
+    {
+      "id": "UCUS-98615",
+      "name": "SOCOM - U.S. Navy SEALs Fireteam Bravo",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98645",
+      "name": "SOCOM - U.S. Navy SEALs Fireteam Bravo 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98716",
+      "name": "SOCOM - U.S. Navy SEALs - Fireteam Bravo 3",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98649",
+      "name": "SOCOM - U.S. Navy SEALs Tactical Strike",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUF-30016",
+      "name": "Soldier Blade",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00227",
+      "name": "Solitaire",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10195",
+      "name": "Sonic Rivals",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10323",
+      "name": "Sonic Rivals 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10457",
+      "name": "Soul Calibur - Broken Destiny",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "R"
+      ]
+    },
+    {
+      "id": "ULUS-10346",
+      "name": "Space Invaders Extreme",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00038",
+      "name": "Spaceball - Revolution",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10076",
+      "name": "Spectral Souls - Resurrection of the Ethereal Empire",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00256",
+      "name": "Speedball 2 Evolution",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10255",
+      "name": "Spelling Challenges and More!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10015",
+      "name": "Spider-Man 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10317",
+      "name": "Spider-Man 3",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10318",
+      "name": "Spider-Man - Friend or Foe",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10389",
+      "name": "Spider-Man - Web of Shadows",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "ULES-00693",
+      "name": "Spinout",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10513",
+      "name": "Split/Second",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10092",
+      "name": "Spongebob SquarePants - The Yellow Avenger",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10478",
+      "name": "Spongebob SquarePants Truth or Square",
+      "langs": [
+        "E",
+        "G",
+        "I",
+        "Du"
+      ]
+    },
+    {
+      "id": "NPUZ-00034",
+      "name": "Spot the Differences!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10042",
+      "name": "SSX - On Tour",
+      "langs": [
+        "E",
+        "F",
+        "G"
+      ]
+    },
+    {
+      "id": "ULUS-10101",
+      "name": "Stacked with Daniel Negreanu",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00029",
+      "name": "Stand O' Food",
+      "langs": [
+        "E",
+        "R"
+      ]
+    },
+    {
+      "id": "NPUZ-00230",
+      "name": "Star Hammer Tactics",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10374",
+      "name": "Star Ocean - First Departure",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10375",
+      "name": "Star Ocean - Second Evolution",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10150",
+      "name": "Star Trek - Tactical Assault",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10390",
+      "name": "Star Wars Battlefront - Elite Squadron",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10292",
+      "name": "Star Wars Battlefront - Renegade Squadron",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10053",
+      "name": "Star Wars Battlefront II",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10188",
+      "name": "Star Wars - Lethal Alliance",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10477",
+      "name": "Star Wars - The Clone Wars - Republic Heroes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10345",
+      "name": "Star Wars - The Force Unleashed",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10354",
+      "name": "State Shift",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10470",
+      "name": "Steambot Chronicles - Battle Tournament",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10215",
+      "name": "Steel Horizon",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00092",
+      "name": "Stellar Attack",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00234",
+      "name": "Stick Man Rescue",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10062",
+      "name": "Street Fighter Alpha 3 MAX",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00172",
+      "name": "Street Smart",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10069",
+      "name": "Street Supremacy",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10186",
+      "name": "StreetKix -. Freestyle",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10020",
+      "name": "Strikers 1945 Plus Portable",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00001",
+      "name": "Sudoku",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10656",
+      "name": "Summon Night 5",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10198",
+      "name": "Summon Night 5",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10287",
+      "name": "Super Collapse! 3",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10132",
+      "name": "Super Monkey Ball Adventure",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10028",
+      "name": "Super Pocket Tennis",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10066",
+      "name": "Super Sidekicks",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUF-30010",
+      "name": "Super Star Soldier",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80221",
+      "name": "Super Stardust Portable",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "Du",
+        "P",
+        "R"
+      ]
+    },
+    {
+      "id": "NPUZ-00058",
+      "name": "Supermarket Mania",
+      "langs": [
+        "E",
+        "R"
+      ]
+    },
+    {
+      "id": "ULUS-10262",
+      "name": "Surf's Up",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUH-10124",
+      "name": "Susume Tactics!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10314",
+      "name": "SWAT - Target Liberty",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10652",
+      "name": "Sweet Fuse - At Your Side",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80424",
+      "name": "Sweet Reversi",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80114",
+      "name": "Syphon Filter - Combat Ops",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "UCUS-98641",
+      "name": "Syphon Filter - Dark Mirror",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98606",
+      "name": "Syphon Filter - Logan's Shadow",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10185",
+      "name": "T.A.C. Heroes - Big Red One",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00147",
+      "name": "T.N.K. III",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10565",
+      "name": "Tactics Ogre - Let Us Cling Together",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10208",
+      "name": "Taito Legends - Power-Up",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10271",
+      "name": "Tales of the World - Radiant Mythology",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80162",
+      "name": "TalkMan Travel - Paris",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80161",
+      "name": "TalkMan Travel - Rome",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80155",
+      "name": "TalkMan Travel - Tokyo",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00049",
+      "name": "Tehra - Dark Warrior",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10466",
+      "name": "Tekken 6",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "R"
+      ]
+    },
+    {
+      "id": "ULUS-10139",
+      "name": "Tekken - Dark Resurrection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00073",
+      "name": "Telegraph Crosswords",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00074",
+      "name": "Telegraph - Sudoku & Kakuro",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10419",
+      "name": "Tenchu - Shadow Assassins",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10249",
+      "name": "Test Drive Unlimited",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00228",
+      "name": "Tetraminos",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00003",
+      "name": "Tetris",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00240",
+      "name": "The 2D Adventures of Rotating Octopus Character",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10567",
+      "name": "THE 3RD BIRTHDAY",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10284",
+      "name": "The Bigs",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10448",
+      "name": "The Bigs 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98621",
+      "name": "The Con",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10002",
+      "name": "The Cryptics",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-80335",
+      "name": "The Eye of Judgment - Legends",
+      "langs": []
+    },
+    {
+      "id": "ULUS-10198",
+      "name": "The Fast and The Furious",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00192",
+      "name": "The Flying Hamster",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "J"
+      ]
+    },
+    {
+      "id": "ULUS-10098",
+      "name": "The Godfather - Mob Wars",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10315",
+      "name": "The Golden Compass",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10048",
+      "name": "The Hustle - Detroit Streets",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00254",
+      "name": "The Impossible Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10065",
+      "name": "The King of Fighters '94",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10119",
+      "name": "The King of Fighters '96",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10360",
+      "name": "The King of Fighters Collection - The Orochi Saga",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10022",
+      "name": "The Legend of Heroes - A Tear of Vermillion",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10540",
+      "name": "The Legend of Heroes - Trails in the Sky",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10191\nNPUH-10197",
+      "name": "The Legend of Heroes - Trails in the Sky SC",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10125",
+      "name": "The Legend of Heroes II - Prophecy of the Moonlight Witch",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10144",
+      "name": "The Legend of Heroes III - Song of the Ocean",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10475",
+      "name": "The Lord of the Rings - Aragorn's Quest",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10038",
+      "name": "The Lord of the Rings - Tactics",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00280",
+      "name": "The Marbians",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00063",
+      "name": "The Mystery of the Crystal Portal",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "P",
+        "S",
+        "R"
+      ]
+    },
+    {
+      "id": "NPUZ-00169",
+      "name": "The Next Space",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10040",
+      "name": "The Red Star",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10443",
+      "name": "The Secret Saturdays - Beasts of the 5th Sun",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10295",
+      "name": "The Simpsons Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10031",
+      "name": "The Sims 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10296",
+      "name": "The Sims 2 - Castaway",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "Du",
+        "P"
+      ]
+    },
+    {
+      "id": "ULUS-10130",
+      "name": "The Sims 2 - Pets",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00056",
+      "name": "The Terminator",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00269",
+      "name": "The Treasures of Montezuma",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "R"
+      ]
+    },
+    {
+      "id": "ULUS-10213",
+      "name": "The Warriors",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10019",
+      "name": "Thexder Neo",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPEX-00001",
+      "name": "This is Football Management",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10191",
+      "name": "Thrillville",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10306",
+      "name": "Thrillville - Off the Rails",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPEZ-00129",
+      "name": "Tiger Trouble",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10009",
+      "name": "Tiger Woods PGA Tour",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10028",
+      "name": "Tiger Woods PGA Tour 06",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10115",
+      "name": "Tiger Woods PGA Tour 07",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10276",
+      "name": "Tiger Woods PGA Tour 08",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10367",
+      "name": "Tiger Woods PGA Tour 09",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10420",
+      "name": "Tiger Woods PGA Tour 10",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00173",
+      "name": "Time Soldiers",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10243",
+      "name": "TMNT",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10436",
+      "name": "TNA Impact - Cross the Line",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "NPUH-10076",
+      "name": "TNT Racers",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10061",
+      "name": "Tokobot",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10358",
+      "name": "Tom Clancy's EndWar",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10237",
+      "name": "Tom Clancy's Ghost Recon - Advanced Warfighter",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10445",
+      "name": "Tom Clancy's Ghost Recon - Predator",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10206",
+      "name": "Tom Clancy's Rainbow Six - Vegas",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10070",
+      "name": "Tom Clancy's Splinter Cell - Essentials",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10197",
+      "name": "Tony Hawk's Project 8",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10014",
+      "name": "Tony Hawk's Underground 2 - Remix",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUX-80422",
+      "name": "Tonzurakko",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00184",
+      "name": "Top Gun",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00301",
+      "name": "Top Trumps NBA All Stars",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00166",
+      "name": "Touchdown Fever",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00294",
+      "name": "Trailblazer",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10433",
+      "name": "Transformers - Revenge of the Fallen",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10274",
+      "name": "Transformers - The Game",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10272",
+      "name": "Traxxpad - Portable Studio",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00188",
+      "name": "Twin Blades",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98601",
+      "name": "Twisted Metal - Head-On",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10221",
+      "name": "UEFA Champions League 2006-2007",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10337",
+      "name": "UEFA Euro 2008",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10508",
+      "name": "UFC Undisputed 2010",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10043",
+      "name": "Ultimate Block Party",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10254",
+      "name": "Ultimate Board Game Collection",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10105",
+      "name": "Ultimate Ghosts 'n Goblins",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10008",
+      "name": "Unbound Saga",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10123",
+      "name": "Unchained Blades",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10453",
+      "name": "Undead Knights",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10027",
+      "name": "Uno",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10003",
+      "name": "Untold Legends - Brotherhood of the Blade",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10086",
+      "name": "Untold Legends - The Warrior's Code",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00077",
+      "name": "Urbanix",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10230",
+      "name": "Valhalla Knights",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10366",
+      "name": "Valhalla Knights 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10041",
+      "name": "Valhalla Knights 2 -Battle Stance",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10515",
+      "name": "Valkyria Chronicles II",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10107",
+      "name": "Valkyrie Profile - Lenneth",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00148",
+      "name": "Vanguard",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00149",
+      "name": "Vanguard II",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00066",
+      "name": "Vector TD",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPEZ-00383",
+      "name": "Velocity",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00015",
+      "name": "Vempire",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10092",
+      "name": "Vertigo",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00095",
+      "name": "Vibes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUF-30015",
+      "name": "Victory Run",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10087",
+      "name": "Viewtiful Joe - Red Hot Rumble",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10246",
+      "name": "Virtua Tennis 3",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S",
+        "J"
+      ]
+    },
+    {
+      "id": "ULUS-10037",
+      "name": "Virtua Tennis - World Tour",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00068",
+      "name": "VT Tennis",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00042",
+      "name": "WackyLands Boss",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10313",
+      "name": "Warhammer 40,000 - Squad Command",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10123",
+      "name": "Warhammer - Battle for Atluma",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10309",
+      "name": "Warriors of the Lost Empire",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10341",
+      "name": "Warriors Orochi",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10423",
+      "name": "Warriors Orochi 2",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "ULUS-10456",
+      "name": "What Did I Do to Deserve This, My Lord?!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10494",
+      "name": "What Did I Do to Deserve This, My Lord?! 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10049",
+      "name": "What Did I Do to Deserve This, My Lord?! 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00243",
+      "name": "Where is my Heart?",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00129",
+      "name": "Who's That Flying?!",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00045",
+      "name": "Widgets Odyssey",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00055",
+      "name": "Widgets Odyssey 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10339",
+      "name": "Wild Arms XF",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10169",
+      "name": "Winning Eleven - Pro Evolution Soccer 2007",
+      "langs": [
+        "E",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10212",
+      "name": "WinX Club - Join the Club",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98712",
+      "name": "Wipeout Pulse",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98612",
+      "name": "Wipeout Pure",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "NPUZ-00296",
+      "name": "Wizorb",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10226",
+      "name": "World Championship Cards",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10145",
+      "name": "World Championship Poker - Howard Lederer - All In",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10060",
+      "name": "World Championship Poker 2 featuring Howard Lederer",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10086",
+      "name": "World Heroes",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10079",
+      "name": "World Poker Tour",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10047",
+      "name": "World Series of Poker",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10321",
+      "name": "World Series of Poker 2008 - Battle for the Bracelets",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10162",
+      "name": "World Series of Poker - Tournament of Champions - 2007 Edition",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10056",
+      "name": "World Soccer Winning Eleven 9",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUF-30013",
+      "name": "World Sports Competition",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98613",
+      "name": "World Tour Soccer",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "UCUS-98631",
+      "name": "World Tour Soccer 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUH-10045",
+      "name": "Worms - Battle Islands",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10065",
+      "name": "Worms - Open Warfare",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10260",
+      "name": "Worms - Open Warfare 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10093",
+      "name": "WRC - FIA World Rally Championship",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10172",
+      "name": "WTF - Work Time Fun",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10544",
+      "name": "WWE All Stars",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10050",
+      "name": "WWE Smackdown! vs. RAW 2006",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10199",
+      "name": "WWE Smackdown! vs. RAW 2007",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10281",
+      "name": "WWE Smackdown! vs. RAW 2008 featuring ECW",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10384",
+      "name": "WWE Smackdown! vs. RAW 2009 featuring ECW",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10452",
+      "name": "WWE Smackdown! vs. RAW 2010 featuring ECW",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10543",
+      "name": "WWE Smackdown! vs. RAW 2011 featuring ECW",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10045",
+      "name": "X-Men Legends II - Rise of Apocalypse",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10411",
+      "name": "X-Men Origins - Wolverine",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10164",
+      "name": "Xiaolin Showdown",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00047",
+      "name": "Yetisports",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10368",
+      "name": "Yggdra Union",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00052",
+      "name": "Young Thor",
+      "langs": [
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "ULUS-10547",
+      "name": "Ys I & II Chronicles",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10551",
+      "name": "Ys Seven",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10051",
+      "name": "Ys - The Ark of Napishtim",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10558",
+      "name": "Ys - The Oath in Felghana",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10481",
+      "name": "Yu-Gi-Oh! 5D's Tag Force 4",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10555",
+      "name": "Yu-Gi-Oh! 5D's Tag Force 5",
+      "langs": [
+        "E",
+        "F",
+        "G",
+        "I",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10136",
+      "name": "Yu-Gi-Oh! GX Tag Force",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "ULUS-10302",
+      "name": "Yu-Gi-Oh! GX Tag Force 2",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00018",
+      "name": "Yummy Yummy Cooking Jam",
+      "langs": [
+        "E",
+        "F",
+        "S"
+      ]
+    },
+    {
+      "id": "ULUS-10559",
+      "name": "Z.H.P. Unlosing Ranger VS Darkdeath Evilman",
+      "langs": [
+        "E",
+        "J"
+      ]
+    },
+    {
+      "id": "NPUZ-00132",
+      "name": "Zenonia",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00208",
+      "name": "Zombie Racers",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUZ-00025",
+      "name": "Zombie Tycoon",
+      "langs": [
+        "E"
+      ]
+    },
+    {
+      "id": "NPUG-30039",
+      "name": "Zuma",
+      "langs": [
+        "E"
+      ]
+    }
+  ]
