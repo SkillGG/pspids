@@ -1,12 +1,17 @@
 import "./App.css";
 import { useEffect, useRef, useState } from "react";
+import * as fs from "fs";
 
 import allGames from "./assets/psp/games.json";
 
-type RegionString = "ntscj" | "ntscu" | "pal";
-
 // #region create games.json file
-/* const checkRegion = (
+/* 
+type RegionString = "ntscj" | "ntscu" | "pal";
+import PSP_NTSCJ from "./assets/psp/ntscj.json";
+import PSP_NTSCU from "./assets/psp/ntscu.json";
+import PSP_PAL from "./assets/psp/pal.json";
+import PSP_Links from "./assets/psp/links.json";
+const checkRegion = (
   lr: string,
   nr: string,
   nl: string[],
@@ -14,6 +19,16 @@ type RegionString = "ntscj" | "ntscu" | "pal";
   rr: RegionString,
   l: string
 ) => lr === r && nr === rr && nl.includes(l);
+
+type GameData = {
+  id: string;
+  region: string;
+  langs: string[];
+  name: string;
+  link?: string;
+};
+
+PSP_Links.reverse();
 
 const allGames = [
   ...PSP_NTSCJ.map((o) => ({ ...o, region: "ntscj" } as GameData)),
@@ -64,8 +79,16 @@ function App() {
   const [ntscj, setNtscj] = useState(true);
   const [pal, setPal] = useState(true);
   const [searchNumber, setSearchNumber] = useState(0);
+  const [edit, setEdit] = useState(false);
+  const [editLink, setEditLink] = useState<string | null>(null);
+  const [linkEdit, setLinkEdit] = useState<string>("");
+  const [promptEdit, setPromptEdit] = useState<boolean>(false);
 
   const tbodyRef = useRef<HTMLTableSectionElement>(null);
+
+  useEffect(() => {
+    if (location.pathname === "/edit") setEdit(true);
+  }, []);
 
   useEffect(() => {
     setSearchNumber(tbodyRef.current?.childElementCount || 0);
@@ -85,6 +108,18 @@ function App() {
 
   return (
     <>
+      <label htmlFor="ntscu">Prompt</label>
+      <input
+        type="checkbox"
+        name="prompt"
+        id="prompt"
+        checked={promptEdit}
+        onChange={(e) => {
+          setPromptEdit(e.currentTarget.checked);
+          setEditLink(null);
+        }}
+      />
+      <br />
       <label htmlFor="ntscu">NTSCU</label>
       <input
         type="checkbox"
@@ -213,6 +248,54 @@ function App() {
                   <td>{tr.id}</td>
                   <td>
                     {tr.link ? <a href={tr.link}>{tr.name}</a> : <>{tr.name}</>}
+                    {edit && editLink !== tr.id ? (
+                      <>
+                        <button
+                          className="editbtn"
+                          onClick={() => {
+                            if (!promptEdit) {
+                              setLinkEdit(tr.link || "");
+                              setEditLink(tr.id);
+                            } else {
+                              tr.link =
+                                prompt("New link:", tr.link || "") || "";
+                              if (tr.link.length <= 0) delete tr.link;
+                            }
+                          }}
+                        >
+                          Edit
+                        </button>
+                        {tr.link && (
+                          <button
+                            className="editbtn"
+                            onClick={() => {
+                              delete (tr as { link?: string }).link;
+                              setEditLink((editLink || "") + "0");
+                            }}
+                          >
+                            Remove
+                          </button>
+                        )}
+                      </>
+                    ) : (
+                      <div className="editbtn">
+                        <input
+                          value={linkEdit}
+                          onChange={(e) => {
+                            setLinkEdit(e.currentTarget.value);
+                          }}
+                        />
+                        <input
+                          type="button"
+                          value="Save"
+                          onClick={() => {
+                            if (linkEdit.length > 0) tr.link = linkEdit;
+                            else delete tr.link;
+                            setEditLink(null);
+                          }}
+                        />
+                      </div>
+                    )}
                   </td>
                   <td style={{ textAlign: "center" }}>{tr.langs.join(", ")}</td>
                 </tr>
@@ -220,6 +303,22 @@ function App() {
           })}
         </tbody>
       </table>
+      {edit && (
+        <button
+          className="permasave"
+          onClick={() => {
+            const blob = new Blob([JSON.stringify(allGames, null, 4)], {
+              type: "application/json",
+            });
+            const a = document.createElement("a");
+            a.download = "games.json";
+            a.href = URL.createObjectURL(blob);
+            a.click();
+          }}
+        >
+          Save
+        </button>
+      )}
     </>
   );
 }
