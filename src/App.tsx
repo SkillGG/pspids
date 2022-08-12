@@ -108,18 +108,22 @@ function App() {
 
   return (
     <>
-      <label htmlFor="ntscu">Prompt</label>
-      <input
-        type="checkbox"
-        name="prompt"
-        id="prompt"
-        checked={promptEdit}
-        onChange={(e) => {
-          setPromptEdit(e.currentTarget.checked);
-          setEditLink(null);
-        }}
-      />
-      <br />
+      {edit && (
+        <>
+          <label htmlFor="ntscu">Prompt</label>
+          <input
+            type="checkbox"
+            name="prompt"
+            id="prompt"
+            checked={promptEdit}
+            onChange={(e) => {
+              setPromptEdit(e.currentTarget.checked);
+              setEditLink(null);
+            }}
+          />
+          <br />
+        </>
+      )}
       <label htmlFor="ntscu">NTSCU</label>
       <input
         type="checkbox"
@@ -248,54 +252,55 @@ function App() {
                   <td>{tr.id}</td>
                   <td>
                     {tr.link ? <a href={tr.link}>{tr.name}</a> : <>{tr.name}</>}
-                    {edit && editLink !== tr.id ? (
-                      <>
-                        <button
-                          className="editbtn"
-                          onClick={() => {
-                            if (!promptEdit) {
-                              setLinkEdit(tr.link || "");
-                              setEditLink(tr.id);
-                            } else {
-                              tr.link =
-                                prompt("New link:", tr.link || "") || "";
-                              if (tr.link.length <= 0) delete tr.link;
-                            }
-                          }}
-                        >
-                          Edit
-                        </button>
-                        {tr.link && (
+                    {edit &&
+                      (editLink !== tr.id ? (
+                        <>
                           <button
                             className="editbtn"
                             onClick={() => {
-                              delete (tr as { link?: string }).link;
-                              setEditLink((editLink || "") + "0");
+                              if (!promptEdit) {
+                                setLinkEdit(tr.link || "");
+                                setEditLink(tr.id);
+                              } else {
+                                tr.link =
+                                  prompt("New link:", tr.link || "") || "";
+                                if (tr.link.length <= 0) delete tr.link;
+                              }
                             }}
                           >
-                            Remove
+                            Edit
                           </button>
-                        )}
-                      </>
-                    ) : (
-                      <div className="editbtn">
-                        <input
-                          value={linkEdit}
-                          onChange={(e) => {
-                            setLinkEdit(e.currentTarget.value);
-                          }}
-                        />
-                        <input
-                          type="button"
-                          value="Save"
-                          onClick={() => {
-                            if (linkEdit.length > 0) tr.link = linkEdit;
-                            else delete tr.link;
-                            setEditLink(null);
-                          }}
-                        />
-                      </div>
-                    )}
+                          {tr.link && (
+                            <button
+                              className="editbtn"
+                              onClick={() => {
+                                delete (tr as { link?: string }).link;
+                                setEditLink((editLink || "") + "0");
+                              }}
+                            >
+                              Remove
+                            </button>
+                          )}
+                        </>
+                      ) : (
+                        <div className="editbtn">
+                          <input
+                            value={linkEdit}
+                            onChange={(e) => {
+                              setLinkEdit(e.currentTarget.value);
+                            }}
+                          />
+                          <input
+                            type="button"
+                            value="Save"
+                            onClick={() => {
+                              if (linkEdit.length > 0) tr.link = linkEdit;
+                              else delete tr.link;
+                              setEditLink(null);
+                            }}
+                          />
+                        </div>
+                      ))}
                   </td>
                   <td style={{ textAlign: "center" }}>{tr.langs.join(", ")}</td>
                 </tr>
